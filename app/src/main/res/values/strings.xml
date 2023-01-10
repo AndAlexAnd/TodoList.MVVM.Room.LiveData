@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TodoList(MVVM_Room_LiveData)</string>
+    <string name="input_note">Введите текст Вашей заметки</string>
+    <string name="low_priority">Низкий</string>
+    <string name="medium_priority">Средний</string>
+    <string name="high_priority">Высокий</string>
+    <string name="button_save_note">Сохранить</string>
+    <string name="add_description">Добавить заметку</string>
 </resources>
