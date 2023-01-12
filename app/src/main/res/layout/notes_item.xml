@@ -11,6 +11,11 @@
     tools:text="Привет"
     tools:background="@drawable/krugliye_ugli_green"
 
-     />
+
+
+     >
+
+
+</TextView>
 
 
